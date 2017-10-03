@@ -1,4 +1,4 @@
-public class Luhns {
+public class LuhnsAlgorithm {
     public static void main(String[] args) {
         System.out.print(checkDigit("7992739871"));
     }
