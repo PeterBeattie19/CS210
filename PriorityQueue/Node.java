@@ -5,4 +5,8 @@ public class Node {
   public Node(int data){
     this.data = data;
   }
+  
+    public int getKey(){
+    return this.data; 
+  }
 }
