@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab9 {
+public class Lab8 {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     Queue pq = new Queue();
